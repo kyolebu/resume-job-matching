@@ -1,1 +1,13 @@
-data/*.csv
+# Data files
+data/clean/*.csv
+data/embeddings/*.npy
+data/embeddings/*.npz
+data/embeddings/*.csv
+data/raw/*.csv
+
+
+nn/mlp/mlp.py
+
+__pycache__/
+
+.DS_Store
