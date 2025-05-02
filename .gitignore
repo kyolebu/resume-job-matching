@@ -1,10 +1,6 @@
 # Data files
-data/clean/*.csv
-data/embeddings/*.npy
-data/embeddings/*.npz
-data/embeddings/*.csv
-data/raw/*.csv
-
+data/*
+data.zip
 
 nn/mlp/mlp.py
 
